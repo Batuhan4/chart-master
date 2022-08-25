@@ -8,3 +8,5 @@ ilk yer de de girdiğiniz datayı candlestick chart haline getiriyor
 böylece kendi soru ve netlerinize teknik analiz yapabilirsiniz 
 
 built on top of konva.js need npm to run
+
+you need to run at localhost , don't just use html
